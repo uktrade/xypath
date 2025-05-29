@@ -32,7 +32,7 @@ setup(
     include_package_data=False,
     zip_safe=False,
     install_requires=[
-        'messytables @git+https://github.com/tom-swart/messytables.git#egg=messytables',
+        'messytables @git+https://github.com/uktrade/messytables.git#egg=messytables',
         'xlrd<2',
     ],
     tests_require=[],
