@@ -10,17 +10,17 @@ This checklist is designed to make it easier to improve the security posture of 
 ## Checklist
 
 - [x] [Setup the pre-commit hook framework](#setup-the-pre-commit-hook-framework)
-- [ ] [Setup custom properties on the repository](#setup-custom-properties-on-the-repository)
+- [x] [Setup custom properties on the repository](#setup-custom-properties-on-the-repository)
 - [x] [Apply the correct github security policy](#apply-the-correct-github-security-policy)
 - [x] [Ensure CODEOWNERS file exists](#ensure-codeowners-file-exists)
 - [x] [Copy the SECURITY_CHECKLIST.md file](#copy-the-security_checklistmd-file)
-- [ ] [Review the GitHub CI/CD overview](#review-the-github-cicd-overview)
-- [ ] [Review the GitHub Safety Tips](#review-github-safety-tips)
-- [ ] [Add Steward to Repository access](#add-at-least-one-steward-to-repository-access)
+- [x] [Review the GitHub CI/CD overview](#review-the-github-cicd-overview)
+- [x] [Review the GitHub Safety Tips](#review-github-safety-tips)
+- [x] [Add Steward to Repository access](#add-at-least-one-steward-to-repository-access)
 - [x] [Create an admin team for the repository](#create-an-admin-team-for-the-repository)
-- [ ] [Review and limit maintainers with admin rights to the strict minimum](#review-and-limit-maintainers-with-admin-rights-to-the-strict-minimum)
-- [ ] [Review the Pull Request template](#review-pull-request-template)
-- [ ] [Review the SECURITY.md policy](#review-securitymd-policy)
+- [x] [Review and limit maintainers with admin rights to the strict minimum](#review-and-limit-maintainers-with-admin-rights-to-the-strict-minimum)
+- [x] [Review the Pull Request template](#review-pull-request-template)
+- [x] [Review the SECURITY.md policy](#review-securitymd-policy)
 
 ## Setup the pre-commit hook framework
 
@@ -79,7 +79,7 @@ To allow tracking of repositories that have successfully completed the reopening
 ## Review the GitHub CI/CD overview
 
 Internal contributors to the repository should review the CI/CD overview below
-![CI/CD overview](assets/CI-CD%20pipeline.svg)
+![CI/CD overview](https://raw.githubusercontent.com/uktrade/.github/refs/heads/main/assets/CI-CD%20pipeline.svg)
 
 ## Review GitHub Safety Tips
 
